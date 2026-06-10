@@ -34,8 +34,8 @@ def main():
     while True :
         print("\n youtube manager :")
         print("1. list all videos : ")
-        print("2. upadate videos ")
-        print("3. add vidoes ")
+        print("2. add videos ")
+        print("3. update vidoes ")
         print("4.delete vidoes ")
         print("5.exit app ")
         start = int(input("enter a number to start :"))
